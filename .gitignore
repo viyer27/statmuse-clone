@@ -1,0 +1,16 @@
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+venv/
+
+# Ignore frontend
+statemuse-ui/
+
+# Ignore local data/ETL folders
+data/
+extract/
+
+# Ignore secrets
+.env
